@@ -1,2 +1,2 @@
 # PracticeGit
-Just got practice 
+Just for practice. learning about git.
